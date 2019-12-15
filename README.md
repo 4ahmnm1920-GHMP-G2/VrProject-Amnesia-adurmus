@@ -1,7 +1,35 @@
-
 # VrProject-Amnesia-adurmus
-This is a description of my VR Project 
 
-**Description:** Der Spieler muss versuchen innerhalb einer bestimmten Zeitspanne aus dem Raum herauszukommen, indem er Rätsel löst und somit Schlüssel bekommt. Sobald er alle Schlüssel gesammelt hat kann er aus dem Raum, aber er befindet sich immer noch in einem Gebäude, welches aus Verschieden Räumen aus seinen Leben besteht (Kinderzimmer, Jugendzimmer, Studentenzimmer, Klassenräume usw.)
+### Project description: 
+The Protagonist suffers from memory loss and he wants to do something against it. he finds out that there is a new technology where he might get his memory back, so he volunteers to try it out. This new technological machine 
+subconsciously takes him back to his old childhood bedroom, while he physically is asleep in a hospital room. In his room he has to solve riddles to gain his memory back. The more riddles he solves, the more memories he gets back but after every riddle he solves he realizes that he suppressed the memories on purpose because they were traumatic experiences. He also constantly thinks that someone is also there with him in his room because he hears footsteps and heavy breathing. 
 
-**Programmieren:** Der Protagonist muss dazu imstande sein Objekte anzufassen/bewegen, vielleicht sogar ein Taschenrechner oder Computer zu benutzen, Sachen einzusammeln und einzufügen, Türen benutzen Taschenlampen ein und aus zu schalten. Mit Objekt zu Interagieren. 
+### Locomotion 
+For my Game I am going to use the Controller based locomotion typ, which means the Player 
+has to use the controller to direct his movements. The motion is continuous and the Player will be artificially moved by utilizing the controllers. 
+
+### Development platform: 
+macOS Mojave Version 10.14.6, Unity Version 2019.1.14f1, Visual Studio Version 7.7.4.1, used SDKs
+Scripting Runtime Version: .Net 4.x
+ 
+SteamVR Plugin: Version 2.5.0, sdk 1.8.9
+
+### Target platform: 
+WebGL, Mobile, VR Device incl. reference resolution 
+
+### Visuals: 
+
+### Necessary setup/execution steps: 
+Installation process, e.g. step by step instructions that I can run the project after cloning it
+
+### Third party material: 
+(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+
+### Project state: 
+incl. progress in percent
+
+### Limitations: 
+
+### Lessons Learned: 
+
+Copyright by you :)
