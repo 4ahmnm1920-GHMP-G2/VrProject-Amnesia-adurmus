@@ -18,6 +18,13 @@ SteamVR Plugin: Version 2.5.0, sdk 1.8.9
 WebGL, Mobile, VR Device incl. reference resolution 
 
 ### Visuals: 
+<div>   <img src="VRProject-Amnesia-adurmus/Screenshots/Moodboard.jpg"/>
+	<img src="VRProject-Amnesia-adurmus/Screenshots/room.jpg"/>
+	<img src="VRProject-Amnesia-adurmus/Screenshots/room1.jpg"/>
+	<img src="VRProject-Amnesia-adurmus/Screenshots/room2.jpg"/>
+	<img src="VRProject-Amnesia-adurmus/Screenshots/room3.jpg"/>
+	<img src="VRProject-Amnesia-adurmus/Screenshots/room4.jpg"/>	
+</div> 
 
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
