@@ -28,6 +28,9 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Project state: 
 incl. progress in percent
 
+### Problems: 
+I couldn't save and generate steamVr input, because the file actions.json.meta was moved to a different Root. 
+
 ### Limitations: 
 
 ### Lessons Learned: 
