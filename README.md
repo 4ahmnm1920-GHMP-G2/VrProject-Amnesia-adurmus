@@ -23,7 +23,7 @@ WebGL, Mobile, VR Device incl. reference resolution
 	<img src="Screenshots/room1.jpg"/>
 	<img src="Screenshots/room2.jpg"/>
 	<img src="Screenshots/room3.jpg"/>
-	<img src=" Screenshots/room4.jpg"/>	
+	<img src="Screenshots/room4.jpg"/>	
 </div> 
 
 ### Necessary setup/execution steps: 
