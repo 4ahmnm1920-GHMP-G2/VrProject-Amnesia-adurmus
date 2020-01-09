@@ -36,7 +36,10 @@ Installation process, e.g. step by step instructions that I can run the project 
 incl. progress in percent
 
 ### Problems: 
-I couldn't save and generate steamVr input, because the file actions.json.meta was moved to a different Root. 
+I couldn't save and generate steamVr input, because the file actions.json.meta was moved to a different Root. (solution for MAC but caused a different problem for Windows)
+Error: No pose action set for this component solution delete actions.json from root (WIN)
+Problem: controllers are not being tracked solution open SteamVR Input, Open binding UI then klick on edit oculus_touch and then replace own settings with oculus_touch settings.(WIN) 
+
 
 ### Limitations: 
 
